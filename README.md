@@ -8,4 +8,4 @@ Set your desired amount and off you go:<br>
 
 Have Enjoy playing.
 
-**:point_right: [Live Version]()**
+**:point_right: [Live Version](https://belal-aljumaa.github.io/Dice-game/)**
