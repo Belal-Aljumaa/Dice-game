@@ -9,3 +9,5 @@ Set your desired amount and off you go:<br>
 Have Enjoy playing.
 
 **:point_right: [Live Version](https://belal-aljumaa.github.io/Dice-game/)**
+
+![Dice-game](img/Gambling.png)
