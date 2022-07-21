@@ -1,9 +1,5 @@
 let accountStatus = 100;
 
-function delay(time) {
-	return new Promise(resolve => setTimeout(resolve, time));
-};
-
 function run() {
 	const zufall = Math.round(Math.random() * 5 + 1);
 	const zufall2 = Math.round(Math.random() * 5 + 1);
